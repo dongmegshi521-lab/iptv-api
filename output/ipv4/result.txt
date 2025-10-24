@@ -1,26 +1,13 @@
 🕘️更新时间,#genre#
-2025-10-24 18:25:10,http://1.31.14.70:54321/hls/7/index.m3u8
+2025-10-25 06:23:06,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📺央视频道,#genre#
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
-CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
-CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
-CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
-CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761441272-ba6611fd37a5632a3eb22f94af6e79ba-0-9110315f3cd3743618ad1c88d29eed01
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
-江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
-内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
-山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
-四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -56,8 +43,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -74,6 +61,7 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 
 🏀体育频道,#genre#
 五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
+体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
