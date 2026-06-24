@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 20:25:43,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-06-25 07:05:43,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -15,18 +15,15 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-东方卫视,http://222.90.21.30:9901/hls/20/index.m3u8
-海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
-辽宁卫视,http://222.90.21.30:9901/hls/39/index.m3u8
+海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山东卫视,http://222.90.21.30:9901/hls/26/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -60,7 +57,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
 
