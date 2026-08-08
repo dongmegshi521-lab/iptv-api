@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-08 18:36:23,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+2026-08-09 06:31:01,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
@@ -29,9 +29,9 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
-青海卫视,http://111.8.224.6:9999/tsfile/live/1030_1.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -42,8 +42,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 
 ☘️辽宁频道,#genre#
 辽宁经济,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
@@ -66,6 +64,8 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
